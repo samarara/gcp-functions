@@ -1,0 +1,11 @@
+{
+  "name": "gcp-functions",
+  "version": "0.0.0",
+  "description": "test package for gcp functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandes de Silva",
+  "license": "ISC"
+}
